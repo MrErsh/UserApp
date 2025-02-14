@@ -1,0 +1,12 @@
+#VS
+.vs
+
+#Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+bin/
+AppPackages
+
+#Temporary dev items
+*.cache
